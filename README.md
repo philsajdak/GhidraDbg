@@ -6,12 +6,16 @@ A Python script that creates a bridge between Ghidra and WinDbg for dynamic driv
 
 <img src="img/screenshot_1.png" width="500" height="300"> <img src="img/screenshot_3.png" width="500" height="300">
 
-## What do I need?
+## What Do I Need?
 
 - Ghidra installed
 - WinDbg installed  
 - Your driver loaded in both Ghidra and WinDbg
 - `C:\temp\windbg` directory (script will create if missing, you should probably change this to a directory of your preference though)
+
+## Why Use This Script?
+
+The built-in Ghidra-WinDbg sync can be challenging to configure and maintain, often requiring specific connection settings and troubleshooting. This script aims to provide a more straightforward, feature-rich alternative.
 
 ## Setup Instructions
 
