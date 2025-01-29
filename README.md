@@ -2,6 +2,10 @@
 
 A Python script that creates a bridge between Ghidra and WinDbg for dynamic driver analysis, allowing real-time synchronization of debugging states.
 
+## Screenshots
+
+<img src="img/screenshot_1.png" width="500" height="300"> <img src="img/screenshot_3.png" width="500" height="300">
+
 ## What do I need?
 
 - Ghidra installed
